@@ -4,10 +4,10 @@ import React from "react";
 const styles = {
     h1: {
         textAlign: "center",
-        color: "white"
+        color: "black"
     },
     head: {
-        backgroundColor: "blue",
+        backgroundColor: "orange",
 
     }
    
